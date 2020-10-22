@@ -1,5 +1,5 @@
 # Glaciers_mass_balance
-used packages:  os, pandas, folim, BeautifulSoup, request, alt, CircleMarker
+Used packages:  os, pandas, folim, BeautifulSoup, request, alt, CircleMarker
 
 
 Map based on data derived from nve.no by using BeautifulSoup and folium lib. 
